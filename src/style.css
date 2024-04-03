@@ -1,1 +1,13 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: rgb(36, 158, 223);
+}
+div {
+  display: block;
+  padding: 50px;
+  border: 1px solid;
+  border-color: #aaa #000 #000 #aaa;
+  margin: 5% auto;
+  height: 30px;
+  width: 40%;
+  text-align: center;
+}
